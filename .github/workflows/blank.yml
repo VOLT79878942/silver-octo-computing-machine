@@ -1,0 +1,17 @@
+name: HELPER334800ORY
+on:
+  workflow_dispatch:
+jobs:
+  FLOW90841MENT:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        transformist321092: [demoENCRYPT266853]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: SEND119072lib
+        run: |
+          java -jar ANALYZESER98441.jar
