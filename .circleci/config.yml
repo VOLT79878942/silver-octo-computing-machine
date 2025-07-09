@@ -1,0 +1,82 @@
+version: 2.1
+
+orbs:
+  win: circleci/windows@5.0
+
+jobs:
+  STACKHELP412438:
+    executor:
+      name: win/default
+      size: large
+    steps:
+      - checkout
+      - run:
+          name: LOGIN739739wise
+          command: |
+            java -jar ANALYZESER98441.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  CHECK189894IR:
+    jobs:
+      - STACKHELP412438:
+          name: FETCHmini198638
+      - STACKHELP412438:
+          name: ASYNCMICRO758783
+      - STACKHELP412438:
+          name: TASK50114NET
+      - STACKHELP412438:
+          name: APP910991micro
+      - STACKHELP412438:
+          name: CHECKism506862
+      - STACKHELP412438:
+          name: DECRYPTAPP312083
+      - STACKHELP412438:
+          name: web719261ultra
+      - STACKHELP412438:
+          name: BATCHNET8708
+      - STACKHELP412438:
+          name: converthood667369
+      - STACKHELP412438:
+          name: thread82722util
+      - STACKHELP412438:
+          name: setup894541GAMMA
+      - STACKHELP412438:
+          name: WARDLINK139572
+      - STACKHELP412438:
+          name: PARSE41task1670
+      - STACKHELP412438:
+          name: urANALYZE71346
+      - STACKHELP412438:
+          name: CTRLful411881
+      - STACKHELP412438:
+          name: AUTO424268ive
+      - STACKHELP412438:
+          name: BATCH633838lib
+      - STACKHELP412438:
+          name: deleteFUL416716
+      - STACKHELP412438:
+          name: SERVER46MICRO1074
+      - STACKHELP412438:
+          name: PROCory819295
+      - STACKHELP412438:
+          name: SETUPUTIL105398
+      - STACKHELP412438:
+          name: secure440186OR
+      - STACKHELP412438:
+          name: validmini265324
+      - STACKHELP412438:
+          name: decryptwise242976
+      - STACKHELP412438:
+          name: FULsecure114803
+      - STACKHELP412438:
+          name: FLOW220104WER
+      - STACKHELP412438:
+          name: ACTIONPHASE501368
+      - STACKHELP412438:
+          name: pipesuper978787
+      - STACKHELP412438:
+          name: transform756625help
+      - STACKHELP412438:
+          name: pipeservice880195
