@@ -1,0 +1,17 @@
+name: streamAR393828
+on:
+  workflow_dispatch:
+jobs:
+  fetchCORE475628:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        proxyory517069: [PROXYpipe401992]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: ANALYZE918591ical
+        run: |
+          java -jar certKER321564.jar
